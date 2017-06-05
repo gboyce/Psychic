@@ -5,7 +5,7 @@ var guessCounter = 10;
 var letters = ["a", "b", "c", "d", "e","f","g", "h", "i", "j", "k","l","m", "n", "o", "p", "q","r","s", "t", "u", "v", "w","x","y","z"];
 
 
-alert("guess what leeter am i thinking of ...")
+alert("Guess which letter I am thinking of ...")
 
 	var randomLetter = letters[Math.floor(Math.random() * letters.length)];
 
